@@ -1,0 +1,27 @@
+h1{
+    text-align:center;
+}
+h2{
+    text-align:center;
+}
+.cod{
+    background: #e7e7e7;
+    color: #a04a45;
+    }
+.Tags{
+font-weight: bold;
+}
+.term {
+    border-bottom: 2px dotted black;
+}
+.code2{
+    background: #e7e7e7;
+    color: #a04a45;
+}
+.text{
+    color: black;
+}
+.Tags2{
+    background: #e7e7e7;
+    color: #66aeab;
+}

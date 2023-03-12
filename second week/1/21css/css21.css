@@ -1,0 +1,24 @@
+.bold{
+font-weight: bold;
+}
+h1{
+    padding-top: 55px;
+}
+li{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 0px 0px 20px 20px ;
+    padding: 40px 20px 0px 20px;
+}
+ul{
+    margin-left: 30;
+    list-style-type: none;
+    flex-wrap: wrap;
+    display: flex;
+    
+}
+div{
+    width: 1000px; /*здесь можно поставить значие 800px и вы убедитесь, что задание выполненно корректно*/
+    text-align: center;
+    margin: 0 auto;
+}

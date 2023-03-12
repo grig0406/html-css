@@ -1,0 +1,13 @@
+p.Player{
+font-size: 250%;
+}
+span.card_r{
+    font-size: 350%;
+    background: #e0e0e0;
+    color: red;
+}
+span.card_b{
+    font-size: 350%;
+    background: #e0e0e0;
+    color: black;
+}

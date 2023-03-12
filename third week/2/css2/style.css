@@ -1,0 +1,30 @@
+div{
+    border: 1px solid #8a8a8a;
+    width: 160px;
+    height: 941px;
+    background: #8a8a8a;
+    margin-left: -8px;
+    margin-top: -9px;
+}
+img{
+    width: 100px;
+    height: 100px;
+    /* margin-left: 10px; */
+    margin-top: 8px;
+    margin-bottom: -21px;
+    margin-right: -10px;
+}
+span{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: aliceblue;
+}
+p:hover{
+    background: #696969;
+
+}
+.menu{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
